@@ -14,6 +14,30 @@
     }
     .key { fill: #f1413f; }
     .accent { fill: #56f3e8; }
+    .source {
+      animation: sourceBreathe 8s ease-in-out infinite;
+    }
+    .mark {
+      animation: markBreathe 6s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    @keyframes sourceBreathe {
+      0%, 100% {
+        opacity: 0.94;
+      }
+      50% {
+        opacity: 1;
+      }
+    }
+    @keyframes markBreathe {
+      0%, 100% {
+        opacity: 0.92;
+      }
+      50% {
+        opacity: 1;
+      }
+    }
   </style>
 
   <defs>
@@ -21,11 +45,13 @@
       <stop stop-color="#5c6469" stop-opacity="0.78"/>
       <stop offset="0.48" stop-color="#242a30" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#111820" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; -34 8; 0 0" dur="12s" repeatCount="indefinite" additive="sum"/>
     </radialGradient>
     <radialGradient id="bottomGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(641 384) rotate(-15) scale(521 114)">
       <stop stop-color="#768084" stop-opacity="0.5"/>
       <stop offset="0.46" stop-color="#343b40" stop-opacity="0.32"/>
       <stop offset="1" stop-color="#111820" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 41 -6; 0 0" dur="14s" repeatCount="indefinite" additive="sum"/>
     </radialGradient>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="400" gradientUnits="userSpaceOnUse">
       <stop stop-color="#222a32"/>
@@ -39,7 +65,9 @@
       <feDropShadow dx="0" dy="0" stdDeviation="1.2" flood-color="#eff4f6" flood-opacity="0.12"/>
     </filter>
     <filter id="markGlow" x="-45%" y="-45%" width="190%" height="190%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="0" stdDeviation="13" flood-color="#ff3e3b" flood-opacity="0.18"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="13" flood-color="#ff3e3b" flood-opacity="0.18">
+        <animate attributeName="flood-opacity" values="0.14;0.32;0.14" dur="6s" repeatCount="indefinite"/>
+      </feDropShadow>
     </filter>
   </defs>
 
@@ -56,7 +84,7 @@
     <path d="M1515 0V400" stroke="#343c44" stroke-width="1"/>
   </g>
 
-  <g filter="url(#textGlow)">
+  <g class="source" filter="url(#textGlow)">
     <text class="yaml key" x="150" y="121">editbyjunior:</text>
     <text class="yaml" x="182" y="171">role: Design Engineer</text>
     <text class="yaml" x="182" y="221">mode: Solo Founder</text>
@@ -65,7 +93,7 @@
     <text class="yaml" x="182" y="371">edge: 25yrs of taste, modern tools</text>
   </g>
 
-  <g transform="translate(1252 102) scale(5.18)" filter="url(#markGlow)">
+  <g class="mark" transform="translate(1252 102) scale(5.18)" filter="url(#markGlow)">
     <path d="M31.94,21.554h7.668c.126,0,.33-.041.453,0,.229.076.217.733.261.921.079.342.104.695.103,1.047-.001.975-.13,1.953-.316,2.902-.082.421-.192.836-.315,1.247-.092.305-.189.533-.546.497-.601-.061-1.201-.151-1.8-.226-.682-.086-1.364-.08-2.052-.086-1.276-.011-2.494.158-3.698.595h-2.169c-.485,0-.97,0-1.454,0-.567,0-1.131-.031-1.677.149-.882.291-1.595.995-1.898,1.874-.154.446-.164.898-.164,1.362,0,2.411-.022,4.823.017,7.234.011.635.021,1.27.009,1.905-.013.647-.002,1.345-.126,1.981-.094.483-.726.488-1.12.585-.616.151-1.238.255-1.874.255.016,0,.128-.012.137.006-.021-.046-1.176.114-1.284.124-.002,0-.794.123-.794.123-.462.046-.892.138-1.341.233-.375.08-.75.16-1.125.24-.234.05-.502.15-.741.158-.224.007-.17-.183-.17-.362v-13.078c0-.237.004-.474,0-.711-.014-.913-.582-1.731-1.477-1.982-.319-.089-.644-.075-.971-.075H3.727c-.296,0-.593-.002-.89,0-.325.002-.645.042-.956.138-.573.177-1.026.618-1.642.596-.218-.007-.239-.045-.239-.245v-.432c0-1.089.15-2.179.295-3.256.091-.674.166-1.349.221-2.027.02-.248.038-.495.051-.744.009-.16-.048-.534.032-.671.075-.127.449-.131.587-.15.241-.033.484-.056.727-.075.673-.052,1.349-.072,2.024-.086,2.023-.042,4.048-.023,6.071-.018.659.002,1.319.003,1.978.003.662,0,1.407.096,2.054-.064.857-.211,1.712-.897,1.937-1.765.16-.616.123-1.315.162-1.948.041-.665.081-1.33.12-1.996.068-1.168.133-2.336.191-3.505.083-1.671.16-3.344.188-5.017.007-.417-.011-.811.419-1.028.044-.022.091-.039.136-.058.295-.127.59-.255.885-.382,1.131-.489,2.262-.977,3.393-1.466,2.067-.893,4.135-1.786,6.202-2.679l.225-.105c.603-.302,1.202-.613,1.813-.896.453-.21.914-.401,1.374-.588.032-.013.068-.017.1-.006.053.017.114.052.162.077.021.01.026.036.011.054-.093.112-.381.459-.41.503-.62.929-1.313,1.812-1.962,2.721-.469.656-.953,1.315-1.359,2.013-.239.411-.449.841-.626,1.282-.083.204-.158.411-.228.62-.052.157-.074.369-.159.51-.092.152-.278.288-.397.423-.142.161-.277.328-.406.5-.225.302-.428.622-.603.956-1.24,2.361-.99,5.176-.99,7.753v1.477c0,.991.639,1.939,1.516,2.384.52.264,1.057.276,1.619.276h4.584ZM26.129,46.361c-.592,0-1.184,0-1.775.035-.471.029-.94.075-1.408.136-.318.042-1.122.012-1.227.409-.036.136-.01.309-.01.447v4.685c0,.145-.029.329.007.472.199.773,1.065-.319,1.342-.475.247-.139.546-.135.815-.209.321-.088.643-.24.982-.24.335-.117.665-.264.971-.445.292-.172.417-.314.435-.658l.215-3.79c.01-.196-.151-.366-.347-.366" fill="#fa3838"/>
   </g>
 </svg>
