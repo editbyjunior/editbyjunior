@@ -1,6 +1,6 @@
 ![editbyjunior profile banner](./assets/banner.svg)
 
-# Hey there
+# Hey there (. ❛ ᴗ ❛.)
 
 📍 Orange County <-> SF, Bay Area
 
@@ -28,10 +28,10 @@ I’ve been heads down building for a while. I’m making more room for good con
 
 ## Things I'm Proud Of
 
-- 4X Dad: Step-dad of 3, Dad of 1.
-- [2Advanced](https://www.2advanced.com): pushed pixels and led teams on large-scale projects from 2005-2014.
+- 4X Dad: Step-dad of 3, Dad of 1
+- [2Advanced](https://www.2advanced.com) pushed pixels and led teams from 2005-2014
 - Founder & Designer at Progressive One, LLC, a fractional agency of one for web2 and web3 brands. 12 years and counting.
-- Curated brand, product, and interactive work for Adobe, Disney, NBA, Nintendo, Activision, LucasArts, Google, Mattel, Marvel, SpaceX, MTV, Pepsi, Sony, Samsung, Kabam, Nvidia, Warner Bros, Lego, ASUS, Treyarch, and more.
+- Curated brand, product, and interactive work for Adobe, Disney, NBA, Nintendo, Activision, LucasArts, Google, Mattel, Marvel, SpaceX, MTV, Pepsi, Sony, Samsung, Kabam, Nvidia, Warner Bros, Lego, ASUS, Treyarch, and muchos mas.
 
 ## Stack
 
@@ -50,8 +50,8 @@ I’ve been heads down building for a while. I’m making more room for good con
 
 ## Quote
 
-> I come from the last generation before the internet went mainstream. We drank from the fire hose, played outside, and learned to build while the rules were still loading.
+> _I come from the last generation before the internet went mainstream. We drank from the fire hose, played outside, and learned to build while the rules were still loading._
 
 ---
 
-_This README is a living document that evolves with the work._
+This README is a living document that evolves with the work.
