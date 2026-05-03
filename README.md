@@ -8,14 +8,10 @@ My name is Elder Jerez Jr., but I go by Junior. ☕️ I’ve spent the last 25 
 
 [Extended Bio](./Extended-Bio.md) · [X](https://x.com/editbyjunior) · [LinkedIn](https://www.linkedin.com/in/elderjerezjr/)
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai)
 [![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/codex)
-[![Adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/adobe)
 [![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/obsidianmd)
 [![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)](https://github.com/ghostty-org/ghostty)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/figma)
-[![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://github.com/adobe/adobe-photoshop-api-sdk)
-[![Azuki](./assets/azuki-badge.svg)](https://github.com/chiru-labs)
 [![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
 
 ---
@@ -23,26 +19,6 @@ My name is Elder Jerez Jr., but I go by Junior. ☕️ I’ve spent the last 25 
 ## Currently
 
 - Building: Regeneer, Micro Resorts, Soundlites.
-
-## Stack
-
-**Build**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
-
-**Workflow**
-
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white)
-[![Paper](https://img.shields.io/badge/Paper-000000?style=for-the-badge&logo=paperlessngx&logoColor=white)](https://app.paper.design/)
-![Pencil](https://img.shields.io/badge/Pencil-000000?style=for-the-badge&logo=figma&logoColor=white)
-[![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=discord&logoColor=white)](https://www.midjourney.com/)
-[![Linear](https://img.shields.io/badge/Linear-000000?style=for-the-badge&logo=linear&logoColor=white)](https://linear.app/)
 
 ## Let's Connect
 
@@ -54,6 +30,21 @@ My name is Elder Jerez Jr., but I go by Junior. ☕️ I’ve spent the last 25 
 - [2Advanced](https://www.2advanced.com): pushed pixels and led teams on large-scale projects from 2005-2014.
 - Founder & Designer at Progressive One, LLC, a fractional agency of one for web2 and web3 brands. 12 years and counting.
 - Curated brand, product, and interactive work for Adobe, Disney, NBA, Nintendo, Activision, LucasArts, Google, Mattel, Marvel, SpaceX, MTV, Pepsi, Sony, Samsung, Kabam, Nvidia, Warner Bros, Lego, ASUS, Treyarch, and more.
+
+## Stack
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white)
+[![Paper](https://img.shields.io/badge/Paper-000000?style=for-the-badge)](https://paper.design/)
+[![Pencil](https://img.shields.io/badge/Pencil-000000?style=for-the-badge)](https://www.pencil.dev/)
+[![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=discord&logoColor=white)](https://www.midjourney.com/)
+[![Linear](https://img.shields.io/badge/Linear-000000?style=for-the-badge&logo=linear&logoColor=white)](https://linear.app/)
 
 ## Quote
 
