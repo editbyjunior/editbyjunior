@@ -18,7 +18,7 @@ My name is Elder Jerez Jr., but I go by Junior. ☕️ I’ve spent the last 25 
 
 ## Currently
 
-- Building: Regeneer, Micro Resorts, Soundlites.
+- Building: Regeneer, Micro Resorts, Soundlites
 
 ## Let's Connect
 
