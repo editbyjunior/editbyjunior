@@ -1,4 +1,4 @@
-[![editbyjunior profile banner](./assets/banner.svg)](./editbyjunior.yml)
+[![editbyjunior profile banner](./assets/banner.svg)](./editbyjunior.md)
 
 # Hey there (. ❛ ᴗ ❛.)
 
