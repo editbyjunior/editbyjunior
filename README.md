@@ -1,4 +1,4 @@
-![editbyjunior profile banner](./assets/banner.svg)
+[![editbyjunior profile banner](./assets/banner.svg)](./editbyjunior.yml)
 
 # Hey there (. ❛ ᴗ ❛.)
 
@@ -42,7 +42,7 @@ I’ve been heads down building for a while. I’m making more room for good con
 [![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openclaw/openclaw/releases/tag/v2026.5.2)
 [![Paper](https://img.shields.io/badge/Paper-000000?style=for-the-badge)](https://paper.design/)
 [![Pencil](https://img.shields.io/badge/Pencil-000000?style=for-the-badge)](https://www.pencil.dev/)
 [![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=discord&logoColor=white)](https://www.midjourney.com/)
