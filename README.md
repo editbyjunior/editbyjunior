@@ -8,11 +8,11 @@ My name is Elder Jerez Jr., but I go by Junior. ☕️ I’ve spent the last 25 
 
 [Extended Bio](./Extended-Bio.md) · [X](https://x.com/editbyjunior) · [LinkedIn](https://www.linkedin.com/in/elderjerezjr/)
 
-[![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/codex)
-[![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/obsidianmd)
-[![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)](https://github.com/ghostty-org/ghostty)
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/figma)
-[![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![Codex](https://img.shields.io/badge/Codex-FFFFFF?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/openai/codex)
+[![Obsidian](https://img.shields.io/badge/Obsidian-FFFFFF?style=for-the-badge&logo=obsidian&logoColor=black)](https://github.com/obsidianmd)
+[![Ghostty](https://img.shields.io/badge/Ghostty-FFFFFF?style=for-the-badge&logo=ghostty&logoColor=black)](https://github.com/ghostty-org/ghostty)
+[![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black)](https://github.com/figma)
+[![CLI](https://img.shields.io/badge/CLI-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://en.wikipedia.org/wiki/Command-line_interface)
 
 ---
 
