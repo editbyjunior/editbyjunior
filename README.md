@@ -22,7 +22,9 @@ My name is Elder Jerez Jr., but I go by Junior. ☕️ I’ve spent the last 25 
 
 ## Let's Connect
 
-- Email: [jr@editbyjunior.com](mailto:jr@editbyjunior.com) — always interested in collaborating with builders and tinkerers.
+I’ve been heads down building for a while. I’m making more room for good conversations with builders, founders, designers, and tinkerers.
+
+- [Email](mailto:jr@editbyjunior.com) - Trade notes, talk shop, or send me something weird you’re building.
 
 ## Things I'm Proud Of
 
