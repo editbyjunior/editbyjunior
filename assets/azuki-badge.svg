@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="28" viewBox="0 0 101 28" role="img" aria-label="Azuki">
+  <title>Azuki</title>
+  <rect width="101" height="28" rx="0" fill="#000"/>
+  <image x="10" y="6" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+oFAwAYA7pMezkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjYtMDUtMDNUMDA6MjQ6MDMrMDA6MDAJQAYcAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI2LTA1LTAzVDAwOjI0OjAzKzAwOjAweB2+oAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNi0wNS0wM1QwMDoyNDowMyswMDowMC8In38AAABMSURBVEjHY/zPQBlgolD/qAHDwwAWnDLoKYxxsHoBlwH/iRAZ1F74T7zo4PQC7kLqP3EGUNULjKQbgD8P/CdsAImAcbRYHzWAGgYAAIzwCzmZH5/3AAAAAElFTkSuQmCC"/>
+  <text x="34" y="18" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">Azuki</text>
+</svg>
